@@ -1,2 +1,3 @@
 # heroku-asgi-procfile-example
-Ex Heroku Procfile for ASGI App
+
+An example Procfile for an ASGI heroku app w/ Django, Django-Channels and Daphne
